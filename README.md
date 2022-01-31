@@ -11,3 +11,4 @@ Demo for practice purposes for `add`, `commit`, `push`, `checkout` and `rebase` 
 - Addition of `branch-3`. (this branch is independently worked on from developer alongside `branch-2`)
 	- also corrects the description of the initial commit to main rather than `Master`(an old expression of the original main branch name)
 	- also corrects Demo practice keywords.
+	- now also successfully rebases from developer to align with branch-2 changes. (incorporating team change into `branch-3`, ready for merge into developer)

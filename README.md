@@ -1,5 +1,14 @@
 # Vale-Git-Practice
 
+## Git settings
+
+Set the following for local git bash:
+
+```
+git config --global merge.ff false
+```
+
+## Description
 Initial commit to main; generally not a workflow practice.
 
 Demo for practice purposes for `add`, `commit`, `push`, `checkout` and `rebase` commands.
